@@ -1,0 +1,19 @@
+{
+  "name": "wdd330f",
+  "version": "1.0.0",
+  "description": "Final Project for WDD330",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goatcheese82/wdd330f"
+  },
+  "author": "smi02045",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goatcheese82/wdd330f/issues"
+  },
+  "homepage": "https://github.com/goatcheese82/wdd330f#readme"
+}
